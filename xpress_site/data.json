@@ -1,0 +1,57 @@
+{
+
+"projects": [
+    {
+      "id":0,
+      "project_name": "Random Quote Generator",
+      "description":"The site genersates random quotes",
+      "technologies":["HTML", "CSS", "JavaScript"],
+      "live_link":"",
+      "github_link":"",
+      "image_urls":["/static/images/__","/static/images/__","/static/images/__"]
+
+      },
+      {
+
+      "id":1,
+      "project_name": "List Pagination and Filtering",
+      "description":"The site genersates random quotes",
+      "technologies":["HTML", "CSS", "JavaScript"],
+      "live_link":"",
+      "github_link":"",
+      "image_urls":["/static/images/__","/static/images/__","/static/images/__"]
+
+      },
+      {
+
+      "id":2,
+      "project_name": "Interactive Form",
+      "description":"The site genersates random quotes",
+      "technologies":["HTML", "CSS", "JavaScript"],
+      "live_link":"",
+      "github_link":"",
+      "image_urls":["/static/images/__","/static/images/__","/static/images/__"]
+
+      },
+      {
+
+      "id":3,
+      "project_name": "OOP Game Show App",
+      "description":"The site genersates random quotes",
+      "technologies":["HTML", "CSS", "JavaScript"],
+      "live_link":"",
+      "github_link":"",
+      "image_urls":["/static/images/__","/static/images/__","/static/images/__"]
+
+      },
+      {
+
+      "id":4,
+      "project_name": "Public API Request",
+      "description":"The site genersates random quotes",
+      "technologies":["HTML", "CSS", "JavaScript"],
+      "live_link":"",
+      "github_link":"",
+      "image_urls":["/static/images/__","/static/images/__","/static/images/__"]
+
+      }
